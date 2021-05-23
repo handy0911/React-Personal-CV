@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Personal-CV/static/css/main.3c2294c6.chunk.css",
+    "main.js": "/React-Personal-CV/static/js/main.ec3d50e3.chunk.js",
+    "main.js.map": "/React-Personal-CV/static/js/main.ec3d50e3.chunk.js.map",
+    "runtime-main.js": "/React-Personal-CV/static/js/runtime-main.11d1c481.js",
+    "runtime-main.js.map": "/React-Personal-CV/static/js/runtime-main.11d1c481.js.map",
+    "static/js/2.7b080f21.chunk.js": "/React-Personal-CV/static/js/2.7b080f21.chunk.js",
+    "static/js/2.7b080f21.chunk.js.map": "/React-Personal-CV/static/js/2.7b080f21.chunk.js.map",
+    "static/js/3.04a14b8a.chunk.js": "/React-Personal-CV/static/js/3.04a14b8a.chunk.js",
+    "static/js/3.04a14b8a.chunk.js.map": "/React-Personal-CV/static/js/3.04a14b8a.chunk.js.map",
+    "index.html": "/React-Personal-CV/index.html",
+    "static/css/main.3c2294c6.chunk.css.map": "/React-Personal-CV/static/css/main.3c2294c6.chunk.css.map",
+    "static/js/2.7b080f21.chunk.js.LICENSE.txt": "/React-Personal-CV/static/js/2.7b080f21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d1c481.js",
+    "static/js/2.7b080f21.chunk.js",
+    "static/css/main.3c2294c6.chunk.css",
+    "static/js/main.ec3d50e3.chunk.js"
+  ]
+}
